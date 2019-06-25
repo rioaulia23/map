@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLatihan12_Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <item name="terrain" type="id"/>
+    <item name="satellite" type="id"/>
+    <item name="normal" type="id"/>
+    <item name="hybrid" type="id"/>
+</resources>
